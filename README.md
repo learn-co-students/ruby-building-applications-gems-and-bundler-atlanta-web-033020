@@ -91,7 +91,7 @@ There are a few indicators that should help:
 - How many people have downloaded the gem?
 - Does the description match what we're looking for?
 
-In this example, one gem stand way out from the rest - `awesome_print`, and the
+In this example, one gem stands way out from the rest - `awesome_print`, and the
 description sounds pretty close to what we're looking for. The second contender,
 `table_print` might _also_ be an option, though it has fewer downloads.
 Continuing down the list, the third option is clearly _not what we want_ - it
